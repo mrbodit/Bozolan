@@ -1,22 +1,3 @@
-# Nolang compiler
-
-# About Nolang
-
-Nolang is custom and simple programming language. Code example:
-
-```
-{
-    function factorial(a) {
-        if (a<2) {
-            return a;
-        }
-        return a*factorial(a-1);
-    }
-
-    var input = 4;
-    print factorial(input);
-}
-```
 
 # O Bozolan'ie
 
