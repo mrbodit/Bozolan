@@ -1,0 +1,10 @@
+{
+    funkcja silnia(a) {
+        jezeli (a<2) {
+            zwroc a;p
+        }
+        zwroc a*silnia(a-1);p
+    }
+
+    wypisz silnia(4);p
+}

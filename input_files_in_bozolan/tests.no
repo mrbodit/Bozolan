@@ -1,0 +1,16 @@
+{
+    funkcja prosta_funkcja() {
+        zmienna x=1;p
+        zwroc x;p
+    }
+
+    zmienna str = 'jakis string';p
+
+    zmienna y = 0;p
+
+    dopoki(y < 0) {
+        y = y + 1;p
+    }
+
+    wypisz prosta_funkcja();p
+}

@@ -1,0 +1,30 @@
+{
+
+    funkcja dodaj(a,b) {
+        zwroc a + b;p
+    }
+
+    funkcja pusta() {}
+
+
+    zmienna x = 1;p
+    zmienna y = 20 + 44 * 5;p
+
+    zmienna s = 'jakis string';p
+    zmienna bool = prawda;p
+
+    zmienna wynik = dodaj(1,x+4);p
+
+    pusta();p
+
+
+    x = y + 1;p
+
+    dopoki(x<4) {
+        jezeli (x > 1) {
+            x = x + 1;p
+        }
+    }
+
+    wypisz y + 5;p
+}
